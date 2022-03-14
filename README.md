@@ -11,7 +11,7 @@ Your project is NOT a [Do Framework](https://github.com/iankoulski/do-framework)
 * you don't know how to get something done, without reading the documentation first
 * you are not able to get your work done quickly
 
-The Do Framework is defined by its phylosophy and principles.
+The [Do Framework](https://github.com/iankoulski/do-framework) is defined by its phylosophy and principles.
 
 # Phylosophy
 1. Software development and operations should get simpler over time, regardless of the rising complexity of systems and technologies. 
@@ -19,24 +19,24 @@ The Do Framework is defined by its phylosophy and principles.
 3. Humans should be able to get more done with less effort and faster over time
 
 # Principles
-1. Simplicity - favor simplicity, encapsulate complex functionality into single, simple, intuitive, and actionable artifacts; standardize artifacts across projects
-2. Flexibility - "batteries included, but swappable"; each project should come pre-configured with reasonable defaults which work out of the box, but should be completely customizable through centralized configuration
-3. Universality - generalize, build projects that solve problems universally, so when the same problem needs to be solved in a different setting (different cloud, operating system, processor, etc.), you don't have to build a new project.
+1. **Simplicity** - favor simplicity, encapsulate complex functionality into single, simple, intuitive, and actionable artifacts; standardize artifacts across projects
+2. **Flexibility** - "batteries included, but swappable"; each project should come pre-configured with reasonable defaults which work out of the box, but should be completely customizable through centralized configuration
+3. **Universality** - generalize, build projects that solve problems universally, so when the same problem needs to be solved in a different setting (different cloud, operating system, processor, etc.), you don't have to build a new project.
 
 # Implementation
-Any project that adheres to the phylosophy of the framework and abides by its principles is considered to be a Do Framework project. The choice of a technology stack and tooling belongs entirely to the implementation. The [Depend on Docker](https://github.com/iankoulski/depend-on-docker) is the first known [Do Framework](https://github.com/iankoulski/do-framework) implementation. 
+Any project that adheres to the phylosophy of the framework and abides by its principles is considered to be a [Do Framework](https://github.com/iankoulski/do-framework) project. The choice of a technology stack and tooling belongs entirely to the implementation. The [Depend on Docker](https://github.com/iankoulski/depend-on-docker) project is the first known [Do Framework](https://github.com/iankoulski/do-framework) implementation. 
 
 ## "Depend on Docker" Project
 The [Depend on Docker](https://github.com/iankoulski/depend-on-docker) project is a template for building [Do Framework](https://github.com/iankoulski/do-framework) projects using [Docker](https://www.docker.com). 
 
 It is:
-* Simple
+* **Simple**
     * Creates a new project with a single command
     * Depends only on [Docker](https://docker.com) to go from source to production
     * Standarizes user interaction through a set of intuitive action scripts: `./config.sh`, `./build.sh`, `./push.sh`, `./pull.sh`, `./run.sh`, `./exec.sh`, `./status.sh`, `./logs.sh`, `./test.sh`, `./stop.sh`.
-* Flexible
-    * Works with provided defaults, but also fully customizable 
-* Universal
+* **Flexible**
+    * Works with the included default settings, but is also fully customizable 
+* **Universal**
     * Runs on Linux or Windows, locally or in the cloud
 
 The [Depend on Docker](https://github.com/iankoulski/depend-on-docker) project challenges us to never install anything other than [Docker](https://docker.com) directly on our machines. It helps us build and run containers instead.
