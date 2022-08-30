@@ -53,4 +53,6 @@ Below is a list of open source [Do Framework](https://github.com/iankoulski/do-f
 * [aws-do-docker](https://github.com/aws-samples/aws-do-docker)
 * [aws-do-cli](https://github.com/aws-samples/aws-do-cli)
 * [aws-do-eks](https://github.com/aws-samples/aws-do-eks)
+* [aws-do-simnet](https://github.com/aws-samples/aws-do-simnet)
 * [aws-do-pm](https://github.com/aws-samples/aws-do-pm)
+* [aws-do-kubeflow](https://github.com/aws-samples/aws-do-kubeflow)
