@@ -11,9 +11,9 @@ Your project is NOT a [Do Framework](https://github.com/iankoulski/do-framework)
 * you don't know how to get something done, without reading the documentation first
 * you are not able to get your work done quickly
 
-The [Do Framework](https://github.com/iankoulski/do-framework) is defined by its phylosophy and principles.
+The [Do Framework](https://github.com/iankoulski/do-framework) is defined by its philosophy and principles.
 
-# Phylosophy
+# Philosophy
 1. Software development and operations should get simpler over time, regardless of the rising complexity of systems and technologies. 
 2. Humans should be able to develop and operate systems intuitively, without need for extensive learning 
 3. Humans should be able to get more done with less effort and faster over time
@@ -24,7 +24,7 @@ The [Do Framework](https://github.com/iankoulski/do-framework) is defined by its
 3. **Universality** - generalize, build projects that solve problems universally, so when the same problem needs to be solved in a different setting (different cloud, operating system, processor, etc.), you don't have to build a new project.
 
 # Implementation
-Any project that adheres to the phylosophy of the framework and abides by its principles is considered to be a [Do Framework](https://github.com/iankoulski/do-framework) project. The choice of a technology stack and tooling belongs entirely to the implementation. The [Depend on Docker](https://github.com/iankoulski/depend-on-docker) project is the first known [Do Framework](https://github.com/iankoulski/do-framework) implementation. 
+Any project that adheres to the philosophy of the framework and abides by its principles is considered to be a [Do Framework](https://github.com/iankoulski/do-framework) project. The choice of a technology stack and tooling belongs entirely to the implementation. The [Depend on Docker](https://github.com/iankoulski/depend-on-docker) project is the first known [Do Framework](https://github.com/iankoulski/do-framework) implementation. 
 
 ## "Depend on Docker" Project
 The [Depend on Docker](https://github.com/iankoulski/depend-on-docker) project is a template for building [Do Framework](https://github.com/iankoulski/do-framework) projects using [Docker](https://www.docker.com). 
