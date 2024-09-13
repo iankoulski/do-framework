@@ -57,6 +57,8 @@ Below is a list of open source [Do Framework](https://github.com/iankoulski/do-f
 * [aws-do-pm](https://github.com/aws-samples/aws-do-pm)
 * [aws-do-kubeflow](https://github.com/aws-samples/aws-do-kubeflow)
 * [aws-do-inference](https://github.com/aws-samples/aws-do-inference)
+* [aws-do-ami](https://github.com/aws-samples/aws-do-ami)
+* [aws-do-pcluster](https://github.com/aws-samples/aws-do-pcluster)
 * [aws-do-hyperpod](https://github.com/aws-samples/aws-do-hyperpod)
 * [aws-do-ray](https://github.com/aws-samples/aws-do-ray)
 * [do-htop](https://github.com/iankoulski/do-htop)
